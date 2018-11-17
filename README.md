@@ -1,6 +1,6 @@
 # tools
 
-這是專為 micro:bit 測試用的積木
+ lct-test: micro:bit 
 
 ## License
 
