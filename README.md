@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-tools=https://github.com/lct-90412/pxt-tools
+tools=github:lct-90412/pxt-tools
 ```
