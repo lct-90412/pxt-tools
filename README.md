@@ -1,6 +1,6 @@
 # tools
 
-³o¬O±M¬°´ú¸Õ¥Îªºmicro:bit¿n¤ì
+é€™æ˜¯å°ˆç‚ºæ¸¬è©¦ç”¨çš„micro:bitç©æœ¨
 
 ## License
 
